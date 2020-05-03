@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.990,D:\учеба\ОАИП\2sem\lab4\Project4.dproj=D:\учеба\ОАИП\projects\Project4.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.385,=D:\учеба\ОАИП\projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.337,D:\учеба\ОАИП\2sem\lab4\Unit2.pas=D:\учеба\ОАИП\projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.337,D:\учеба\ОАИП\2sem\lab4\Unit2.dfm=D:\учеба\ОАИП\projects\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
